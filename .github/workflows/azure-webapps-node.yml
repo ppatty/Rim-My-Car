@@ -71,8 +71,6 @@ jobs:
       with:
         name: node-app
         path: app
-codex/fix-all-identified-issues
-
 
     - name: Azure Login
       uses: Azure/login@v2.3.0
